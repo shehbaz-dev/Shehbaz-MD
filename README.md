@@ -207,9 +207,8 @@ npm install
 
 ### 3️⃣ — Create your config file
 
-```bash
-cp .env.example .env
-nano .env
+```
+nano .index.js
 ```
 
 Fill in these values:
