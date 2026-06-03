@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://files.catbox.moe/x9rntx.png" width="130" alt="SHEHBAZ-MD Logo"/>
+<img src="https://files.catbox.moe/x9rntx.png" width="330" alt="SHEHBAZ-MD Logo"/>
 
 <br/><br/>
 
