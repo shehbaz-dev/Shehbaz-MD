@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://files.catbox.moe/9126wm.png" width="130" alt="SHEHBAZ-MD Logo"/>
+<img src="https://files.catbox.moe/x9rntx.png" width="130" alt="SHEHBAZ-MD Logo"/>
 
 <br/><br/>
 
@@ -15,17 +15,17 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME/SHEHBAZ-MD?style=social&label=⭐ Stars"/>
+<img src="https://img.shields.io/github/stars/shehbaz-dev/SHEHBAZ-MD?style=social&label=⭐ Stars"/>
 &nbsp;
-<img src="https://img.shields.io/github/forks/YOUR_USERNAME/SHEHBAZ-MD?style=social&label=🍴 Forks"/>
+<img src="https://img.shields.io/github/forks/shehbaz-dev/SHEHBAZ-MD?style=social&label=🍴 Forks"/>
 &nbsp;
-<img src="https://img.shields.io/github/issues/YOUR_USERNAME/SHEHBAZ-MD?style=social&label=🐛 Issues"/>
+<img src="https://img.shields.io/github/issues/shehbaz-dev/SHEHBAZ-MD?style=social&label=🐛 Issues"/>
 
 <br/><br/>
 
 > **Free · Open Source · Multi-Device · 20+ Commands**
 >
-> *Apna khud ka WhatsApp bot — bilkul free, easily deploy karo!*
+> *Make Your Own WhatsApp bot — Free And Easy!*
 
 <br/>
 
@@ -193,7 +193,7 @@ QR-less Pairing
 ### 1️⃣ — Clone the project
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/SHEHBAZ-MD.git
+git clone https://github.com/shehbaz-dev/SHEHBAZ-MD.git
 cd SHEHBAZ-MD
 ```
 
@@ -420,7 +420,7 @@ sudo apt install -y nodejs
 npm install -g pm2
 
 # Clone and run
-git clone https://github.com/YOUR_USERNAME/SHEHBAZ-MD.git
+git clone https://github.com/shehbaz-dev/SHEHBAZ-MD.git
 cd SHEHBAZ-MD
 npm install
 cp .env.example .env
@@ -545,7 +545,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for full guidelines.
 
 | | |
 |---|:---:|
-| 💬 **WhatsApp** | [![Chat](https://img.shields.io/badge/Chat%20with%20Developer-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923212844383) |
+| 💬 **WhatsApp** | [![Chat](https://img.shields.io/badge/Join%20WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VbD4UbdCRs1mNQPRZt2F) |
 | 🐛 **Bug Report** | [![Bug](https://img.shields.io/badge/Report%20a%20Bug-red?style=for-the-badge&logo=github&logoColor=white)](../../issues/new?template=bug_report.md) |
 | 💡 **Feature Request** | [![Feature](https://img.shields.io/badge/Request%20Feature-blue?style=for-the-badge&logo=github&logoColor=white)](../../issues/new?template=feature_request.md) |
 
@@ -565,7 +565,7 @@ Licensed under **[MIT](LICENSE)** — free to use, fork, and modify. Credit appr
 
 **⭐ Star this repo if it helped you!**
 
-Made with ❤️ by **[Shehbaz Dev](https://wa.me/923212844383)**
+Made with ❤️ by **[Shehbaz Dev](https:/shehbaz-dev.vercel.app)**
 
 > ⚡ *Powered by Shehbaz—Dev*
 
