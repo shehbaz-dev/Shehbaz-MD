@@ -23,7 +23,7 @@
 
 <br/><br/>
 
-> **Free · Open Source · Multi-Device · 20+ Commands**
+ **Free · Open Source · Multi-Device**
 >
 > *Make Your Own WhatsApp bot — Free And Easy!*
 
@@ -564,7 +564,7 @@ Licensed under **[MIT](LICENSE)** — free to use, fork, and modify. Credit appr
 
 **⭐ Star this repo if it helped you!**
 
-Made with ❤️ by **[Shehbaz Dev](https:/shehbaz-dev.vercel.app)**
+Made with ❤️ by **[Shehbaz Dev](https://shehbaz-dev.vercel.app)**
 
 > ⚡ *Powered by Shehbaz—Dev*
 
