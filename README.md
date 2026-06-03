@@ -15,11 +15,11 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/github/stars/shehbaz-dev/SHEHBAZ-MD?style=social&label=⭐ Stars"/>
-&nbsp;
-<img src="https://img.shields.io/github/forks/shehbaz-dev/SHEHBAZ-MD?style=social&label=🍴 Forks"/>
-&nbsp;
-<img src="https://img.shields.io/github/issues/shehbaz-dev/SHEHBAZ-MD?style=social&label=🐛 Issues"/>
+[![Stars](https://img.shields.io/github/stars/shehbaz-dev/Shehbaz-MD?style=for-the-badge&logo=github&color=00ffcc&labelColor=121212)](https://github.com/shehbaz-dev/Shehbaz-MD/stargazers)
+[![Forks](https://img.shields.io/github/forks/shehbaz-dev/Shehbaz-MD?style=for-the-badge&logo=git&color=00ffcc&labelColor=121212)](https://github.com/shehbaz-dev/Shehbaz-MD/network/members)
+[![Issues](https://img.shields.io/github/issues/shehbaz-dev/Shehbaz-MD?style=for-the-badge&logo=github-actions&color=ff0055&labelColor=121212)](https://github.com/shehbaz-dev/Shehbaz-MD/issues)
+
+
 
 <br/><br/>
 
