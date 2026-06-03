@@ -205,13 +205,13 @@ npm install
 
 > 💡 First time takes 2–5 minutes. Do not close the terminal.
 
-### 3️⃣ — Create your config file
+### 3️⃣ — edit index.js file 
 
 ```
-nano .index.js
+nano index.js
 ```
 
-Fill in these values:
+edit in these values:
 
 ```env
 MONGODB_URI  =  mongodb+srv://username:password@cluster.mongodb.net/shehbazmd
