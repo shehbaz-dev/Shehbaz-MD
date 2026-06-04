@@ -220,8 +220,6 @@ OWNER_NUMBER =  923001234567   ← your number, with country code, no +
 PORT         =  8000
 ```
 
-<img src="https://i.postimg.cc/CKkvkM1z/GIF-20260604-114106-957.gif" width="330" alt="Startup GiF"/>
-
 <br/><br/>
 
 <details>
@@ -243,6 +241,8 @@ PORT         =  8000
 ```bash
 npm start
 ```
+<img src="https://i.postimg.cc/CKkvkM1z/GIF-20260604-114106-957.gif" width="330" alt="Startup GiF"/>
+
 
 </details>
 
